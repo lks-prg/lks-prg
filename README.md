@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi my name is Lukas, but call me LKS 👋
+
+## I’m currently learning 🌱
+
+
+## My Stat´s
 ![LKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=lks-prg&show_icons=true&theme=radical)
 
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
