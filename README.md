@@ -1,5 +1,7 @@
 ### Hi there 👋
+![LKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=lks-prg&show_icons=true&theme=radical)
 
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 <!--
 **lks-prg/lks-prg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
